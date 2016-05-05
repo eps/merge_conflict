@@ -4,5 +4,6 @@ class ConflictController < ApplicationController
   end
 
   def hellYeah
+    console.log("hell")
   end
 end

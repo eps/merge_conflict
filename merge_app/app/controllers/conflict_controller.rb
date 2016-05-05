@@ -4,6 +4,6 @@ class ConflictController < ApplicationController
   end
 
   def hellYeah
-     render :index
+    console.log("hell")
   end
 end

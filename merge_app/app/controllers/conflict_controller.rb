@@ -4,5 +4,6 @@ class ConflictController < ApplicationController
   end
 
   def hellYeah
+     render :index
   end
 end
